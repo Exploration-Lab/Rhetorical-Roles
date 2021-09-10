@@ -2,14 +2,18 @@ You can find the dataset from [here](), which contains 6 JSON files (Train, Dev,
 
 Corpus Statistics:
 
-
+| Domain  | Number of Documents | Number of Sentences   | Average Number of Sentences per Document |
+| ------- |:-------------------:| :-------------------: | :--------------------------------------: |
+| CL      | 50                  | 13328                 | 266                                      |
+| IT      | 50                  | 7856                  | 157                                      |
+| Total   | 100                 | 21184                 | 212                                      |
 
 A single sentence can sometimes represent multiple rhetorical roles. Each expert could also assign secondary and tertiary rhetorical roles to a single sentence to handle such scenarios. 
 
 As an example, suppose a sentence is a ‘Fact’ but could also be an ‘Argument’ according to the legal expert. In that case, the expert could assign the rhetorical roles ‘Primary Fact’ and ‘Secondary Argument’ to that sentence. We extended it to the tertiary level as well to handle rare cases.
 
 Each case contains the following keys in the JSON: 
-
+```
 'sentences': Preprocessed judgments.
 
 'user_1_primary', 'user_2_primary' and 'user_3_primary': Primary rhetorical role assigned by the users (law experts) to sentences.
@@ -21,3 +25,4 @@ Each case contains the following keys in the JSON:
 'user_1_overall', 'user_2_overall' and 'user_3_overall':
 
 'complete':
+```
