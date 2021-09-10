@@ -51,7 +51,7 @@ Each case contains the following keys in the JSON:
 
 'user_1_tertiary', 'user_2_tertiary' and 'user_3_tertiary': Tertiary rhetorical role assigned by the users (law experts) to sentences, if any.
 
-'user_1_overall', 'user_2_overall' and 'user_3_overall':
+'user_1_overall', 'user_2_overall' and 'user_3_overall': Highest hierarchy label 
 
-'complete':
+'complete': Majority voted label across the three users
 ```
