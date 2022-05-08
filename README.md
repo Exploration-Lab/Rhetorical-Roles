@@ -3,7 +3,7 @@ Semantic Segmentation of Legal Documents via Rhetorical Roles
 
 The repository contains the full codebase of experiments and results of the paper "Semantic Segmentation of Legal Documents via Rhetorical Roles". 
 
-You can get RR dataset in the Dataset folder.
+You can get RR dataset in the Data folder.
 
 Our contributions can be summarized as below:
 * We create a new corpus of legal documents annotated with rhetorical role labels. To the best of our knowledge, this is the largest RR corpus. We release the corpus and model implementations and experiments code.
