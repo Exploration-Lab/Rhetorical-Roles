@@ -17,6 +17,30 @@ Our contributions can be summarized as below:
 
 The RR corpus and software follows [CC-BY-NC](CC-BY-NC) license. Thus, users can share and adapt our dataset if they give credit to us and do not use our dataset for any commercial purposes.
 
+## Citation
+
+```
+@article{DBLP:journals/corr/abs-2112-01836,
+  author    = {Vijit Malik and
+               Rishabh Sanjay and
+               Shouvik Kumar Guha and
+               Shubham Kumar Nigam and
+               Angshuman Hazarika and
+               Arnab Bhattacharya and
+               Ashutosh Modi},
+  title     = {Semantic Segmentation of Legal Documents via Rhetorical Roles},
+  journal   = {CoRR},
+  volume    = {abs/2112.01836},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2112.01836},
+  eprinttype = {arXiv},
+  eprint    = {2112.01836},
+  timestamp = {Tue, 07 Dec 2021 12:15:54 +0100},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2112-01836.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
+```
+
 ## Contact
 
 In case of any queries, please contact <vijitvm21@gmail.com> or <rishabh.lfs@gmail.com>.
