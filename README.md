@@ -9,7 +9,7 @@ Our contributions can be summarized as below:
 * We create a new corpus of legal documents annotated with rhetorical role labels. To the best of our knowledge, this is the largest RR corpus. We release the corpus and model implementations and experiments code.
 * We propose new multi-task learning (MTL) based deep learning model with document level rhetorical role shift as an auxiliary task for segmenting the document into rhetorical role units. We experiment with various text classification models and show that the proposed model performs better than the existing models. We further show that our method is robust against domain transfer.
 * Given that annotating legal documents with RR is a tedious process, we perform model distillation experiments with the proposed MTL model and attempt to leverage unlabeled data to enhance the performance.
-* To the best of our knowledge, we are first to show an application of RR for the task of judgment prediction.
+
 
 ## License
 
