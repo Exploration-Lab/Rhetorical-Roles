@@ -1,5 +1,5 @@
 # Rhetorical-Roles
-Semantic Segmentation of Legal Documents via Rhetorical Roles
+Corpus for Segmenting Legal Documents via Rhetorical Roles
 
 The repository contains the full codebase of experiments and results of the paper "Semantic Segmentation of Legal Documents via Rhetorical Roles". 
 
