@@ -43,4 +43,4 @@ The RR corpus and software follows [CC-BY-NC](CC-BY-NC) license. Thus, users can
 
 ## Contact
 
-In case of any queries, please contact <ashutoshm@cse.iitk.ac.in> and <vijitvm21@gmail.com> and <rishabh.lfs@gmail.com>.
+In case of any queries, please contact <ashutoshm.iitk@gmail.com> and <vijitvm21@gmail.com> and <rishabh.lfs@gmail.com>.
