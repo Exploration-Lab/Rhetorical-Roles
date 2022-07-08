@@ -1,5 +1,5 @@
 ### Dataset: ### 
-You can find the dataset from [here](https://iitk-my.sharepoint.com/:f:/g/personal/ashutoshm_iitk_ac_in/EtRY6rlkMyFEhhW2_elcaJ8B4Ya_9OkZRI3_n2DH1SfxIw?e=8oLG5l), which contains two folders CL and IT which further contains 3 JSON files (Train, Dev, and Test) for each domain.
+You can find the dataset from [here](), which contains two folders CL and IT which further contains 3 JSON files (Train, Dev, and Test) for each domain.
 
 **Corpus Statistics:**
 
