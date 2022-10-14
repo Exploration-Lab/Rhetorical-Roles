@@ -1,4 +1,4 @@
-## Details about models
+## Details about model
 
 The main model which was proposed in the paper is the **mtl-model.ipynb** file. 
 
