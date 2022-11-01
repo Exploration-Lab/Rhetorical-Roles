@@ -20,24 +20,22 @@ The RR corpus and software follows [CC-BY-NC](CC-BY-NC) license. Thus, users can
 ## Citation
 
 ```
-@article{DBLP:journals/corr/abs-2112-01836,
-  author    = {Vijit Malik and
-               Rishabh Sanjay and
-               Shouvik Kumar Guha and
-               Shubham Kumar Nigam and
-               Angshuman Hazarika and
-               Arnab Bhattacharya and
-               Ashutosh Modi},
-  title     = {Semantic Segmentation of Legal Documents via Rhetorical Roles},
-  journal   = {CoRR},
-  volume    = {abs/2112.01836},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2112.01836},
-  eprinttype = {arXiv},
-  eprint    = {2112.01836},
-  timestamp = {Tue, 07 Dec 2021 12:15:54 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2112-01836.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
+@inproceedings{malik-etal-2022-semantic-segmentation-rr,
+    title = "Corpus for Segmenting Legal Documents via Rhetorical Roles",
+    author = "Malik, Vijit and 
+              Sanjay, Rishabh and 
+              Guha, Shouvik and 
+              Hazarika, Angshuman and 
+              Nigam, Shubham Kumar and
+              Bhattacharya, Arnab and 
+              Modi, Ashutosh",
+    booktitle = "Proceedings of the Natural Legal Language Processing Workshop 2022",
+    month = December,
+    year = "2022",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics",
+    abstract = "Legal documents are unstructured, use legal jargon, and have considerable length, making them difficult to process automatically via conventional text processing techniques. A legal document processing system would benefit substantially if the documents could be segmented into coherent information units. This resource paper proposes a new corpus of legal documents annotated (with the help of legal experts) with a set of 13 semantically coherent units labels (referred to as Rhetorical Roles), e.g., facts, arguments, statute, issue, precedent, ruling, and ratio. We perform a thorough analysis of the corpus and the annotations. For automatically segmenting the legal documents, we experiment with the task of rhetorical role prediction: given a document, predict the text segments corresponding to various roles. Using the created corpus, we experiment extensively with various deep learning-based baseline models for the task. Further, we develop a multitask learning (MTL) based deep model with document rhetorical role label shift as an auxiliary
+task for segmenting a legal document. The proposed model shows superior performance over the existing models. We also experiment with model performance in the case of domain transfer and model distillation techniques to see the model performance in limited data conditions.",
 }
 ```
 
