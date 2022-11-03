@@ -1,5 +1,5 @@
 # Rhetorical-Roles
-Corpus for Segmenting Legal Documents via Rhetorical Roles
+Semantic Segmentation of Legal Documents via Rhetorical Roles
 
 The repository contains the full codebase of experiments and results of the paper "Semantic Segmentation of Legal Documents via Rhetorical Roles". 
 
@@ -21,7 +21,7 @@ The RR corpus and software follows [CC-BY-NC](CC-BY-NC) license. Thus, users can
 
 ```
 @inproceedings{malik-etal-2022-semantic-segmentation-rr,
-    title = "Corpus for Segmenting Legal Documents via Rhetorical Roles",
+    title = "Semantic Segmentation of Legal Documents via Rhetorical Roles",
     author = "Malik, Vijit and 
               Sanjay, Rishabh and 
               Guha, Shouvik and 
