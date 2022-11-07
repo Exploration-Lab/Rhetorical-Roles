@@ -29,7 +29,7 @@ The RR corpus and software follows [CC-BY-NC](CC-BY-NC) license. Thus, users can
               Nigam, Shubham Kumar and
               Bhattacharya, Arnab and 
               Modi, Ashutosh",
-    booktitle = "Proceedings of the Natural Legal Language Processing Workshop 2022",
+    booktitle = "Proceedings of the Natural Legal Language Processing Workshop, EMNLP 2022",
     month = December,
     year = "2022",
     address = "Abu Dhabi, UAE",
