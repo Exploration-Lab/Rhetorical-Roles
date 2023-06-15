@@ -7,6 +7,7 @@ Here we provide all the different codes which we have used in this project. Plea
 - Feature_generation
 - Judgement_Prediction
 - Utilities
+- RR_pipeline
 
 `Models` contains the code for all the different models we used in this paper:
 - Single Sentence Classification
@@ -25,4 +26,6 @@ Also in the `Models` folder there is no explicit file for LSP model as it is the
 `Judgement_Prediction` folder contains the code which was used to generate the data for judgement prediction using RPC, ROD roles. The generated data can then be used with a pre-trained BERT [model](https://drive.google.com/drive/folders/17nddWo9e4Z-rljF83jIq1aEb3w71DouZ?usp=sharing) fine-tuned on the judgement prediction task. The code for this can be accessed [here](https://github.com/Exploration-Lab/CJPE/blob/main/Models/transformers/trained_on_multi/BERT_training_notebook.ipynb).
 
 The `Utilities` folder contains all other codes which were used in this project, like calculating `flies_kappa` and generating the plots.
+
+The `RR_pipline` folder contains the pipeline code to directly get Rhetorical role(RR) results for your custom data.
 
