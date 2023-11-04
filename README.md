@@ -1,7 +1,7 @@
 # Rhetorical-Roles
 Semantic Segmentation of Legal Documents via Rhetorical Roles
 
-The repository contains the full codebase of experiments and results of the paper "Semantic Segmentation of Legal Documents via Rhetorical Roles". 
+The repository contains the full codebase of experiments and results of the paper [🔗 Semantic Segmentation of Legal Documents via Rhetorical Roles](https://aclanthology.org/2022.nllp-1.13/). 
 
 You can get RR dataset in the Data folder.
 
