@@ -1,5 +1,7 @@
 ### Dataset: ### 
-You can find the dataset from [here](https://forms.gle/UVcXFLmEPWqBhR7E6), which contains two folders CL and IT which further contains 3 JSON files (Train, Dev, and Test) for each domain.
+The dataset and leaderboard are available on [Hugging Face](https://huggingface.co/spaces/Exploration-Lab/IL-TUR-Leaderboard) 
+
+Please note that data is free to use for academic research and commercial usage of data is not allowed.
 
 **Corpus Statistics:**
 
