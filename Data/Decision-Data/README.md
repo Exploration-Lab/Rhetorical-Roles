@@ -1,4 +1,4 @@
-You can find the dataset from [here](https://forms.gle/UVcXFLmEPWqBhR7E6), which contains 4 json files.
+The dataset and leaderboard are available on [Hugging Face](https://huggingface.co/spaces/Exploration-Lab/IL-TUR-Leaderboard). 
 
 Each case file contains two keys:
 ```
